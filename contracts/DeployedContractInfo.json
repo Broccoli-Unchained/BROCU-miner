@@ -1,0 +1,15 @@
+
+{
+  "networks": {
+      "mainnet": {
+              "contracts": {
+                "_broccoliunchained": {"name":"Broccoli Unchained", "blockchain_address":"0xb6ed7644c69416d67b522e20bc294a9a9b405b31"}
+              }
+            },
+      "testnet": {
+              "contracts": {
+                "_broccoliunchained": {"name":"Broccoli Unchained", "blockchain_address":"0x4fb6715cf6118746c1f08f1d739e17f2b12aaba8"}
+              }
+            }
+    }
+}
