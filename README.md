@@ -1,16 +1,18 @@
 
-# 0xBitcoin ERC20 Token Miner
+# Broccoli Unchained ERC20 Token Miner
 
 LICENSE GPL
 
 Solves proof of work to mine supported ERC20 tokens.  This is a CPU miner. (See Releases for links to GPU miners.)
 
-
-### Official Releases Downloads
-
-[Download Packaged Releases](https://github.com/0xbitcoin/0xbitcoin-miner/blob/master/RELEASES.md)
-
-
+### Instructions
+1. Install NodeJS 20 (nvm install 20)
+2. Clone/download the project
+3. open cmd or terminal window
+4. Install Dependencies with 'npm install'
+5. Set up the config file 'miner-config.json' (duplicate miner-config-sample as a reference)
+6. Start the miner with 'npm run miner'
+* Tested on MacOS and Windows - building the app wasn't necessary in our tests.
 
 ### Building from Source
 
@@ -69,7 +71,7 @@ REMINDER: You >can< set the web3provider to a ropsten, mainnet, or other type of
 
 
 
-### Pool Mining
+### Pool Mining - No pools for $BROCU are known to currently exist!
 - When mining into a pool, your gasprice does not matter and you will pay NO GAS FEES  
 - Every pool is different so consult each pool owner.  Typically, pools will offer a token withdraw mechanism or automatically send tokens to your address on a periodic basis or when a limit is reached
 
@@ -77,7 +79,7 @@ REMINDER: You >can< set the web3provider to a ropsten, mainnet, or other type of
 ### Solo Mining
 - IF SOLO MINING it is necessary to fill the mining account (it is an Ethereum account) with a small amount of ether.  
 - Typically 0.005 eth is good enough to get started.  The ether is used for gas to make function calls to the token smart contract when your miner finds a solution to the Proof of Work.  
-- When the gas is spent that means that you have found a solution! If you were the first to find it, you will be rewarded with 0xbitcoin tokens.  (See the block explorer for typical gas prices at the current moment.)
+- When the gas is spent that means that you have found a solution! If you were the first to find it, you will be rewarded with $BROCU tokens.  (See the block explorer for typical gas prices at the current moment.)
 
 
 
@@ -100,4 +102,4 @@ npm run test
 
 ## Tokens that can be mined using Proof of Work:
 
-1. 0xBitcoin token - http://0xbitcoin.org - https://github.com/0xbitcoin/0xbitcoin-token
+1. Broccoli Unchained - https://broccoliunchained.com / https://brocu.co - https://github.com/Broccoli-Unchained/Broccoli-Unchained-Token
