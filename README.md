@@ -3,7 +3,7 @@
 
 LICENSE GPL
 
-Solves proof of work to mine supported ERC20 tokens.  This is a CPU miner. (See Releases for links to GPU miners.)
+Solves proof of work to mine supported ERC20 tokens.  This is a CPU miner.
 
 ### Instructions
 1. Install NodeJS 20 or later (nvm install 20)
