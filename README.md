@@ -61,6 +61,8 @@ REMINDER: You >can< set the web3provider to a ropsten, mainnet, or other type of
 
 ---------------
 
+* The web3provider need not be a provider like infra or alchemy, it can also be almost any public rpc node such as Public Node or MeowRPC. Just make sure your rate-limit is sufficient. With that said you may be better off running your own node. 
+
 ### Getting Started
 1. Install NodeJS v10
 2. Clone this repo 
@@ -103,3 +105,5 @@ npm run test
 ## Tokens that can be mined using Proof of Work:
 
 1. Broccoli Unchained - https://broccoliunchained.com / https://brocu.co - https://github.com/Broccoli-Unchained/Broccoli-Unchained-Token
+
+* BROCU MINER is based on the 0xbitcoin-miner and can mine any token that implements the ERC-918 standard.
