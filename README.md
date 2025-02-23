@@ -82,6 +82,8 @@ NOTE: The web3provider need not be a provider like infra or alchemy, it can also
 - IF SOLO MINING it is necessary to fill the mining account (it is an Ethereum account) with a small amount of ether.  
 - Typically 0.005 eth is good enough to get started.  The ether is used for gas to make function calls to the token smart contract when your miner finds a solution to the Proof of Work.  
 - When the gas is spent that means that you have found a solution! If you were the first to find it, you will be rewarded with $BROCU tokens.  (See the block explorer for typical gas prices at the current moment.)
+- $BROCU can be mined on ETH Mainnet, BSC, Base, Mantle, WorldChain, Polygon, OP Mainnet, ETH Sepolia, Base Sepolia, BSC Testnet and OP Sepolia. Ensure you have the correct rpc node set before starting.
+- $BROCU Mainnet and Testnet versions have different contract addresses, make sure the correct one is set before starting. 
 
 
 
