@@ -6,7 +6,7 @@ LICENSE GPL
 Solves proof of work to mine supported ERC20 tokens.  This is a CPU miner. (See Releases for links to GPU miners.)
 
 ### Instructions
-1. Install NodeJS 20 (nvm install 20)
+1. Install NodeJS 20 or later (nvm install 20)
 2. Clone/download the project
 3. open cmd or terminal window
 4. Install Dependencies with 'npm install'
