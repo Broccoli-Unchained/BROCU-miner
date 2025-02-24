@@ -87,7 +87,8 @@ NOTE: The web3provider need not be a provider like infra or alchemy, it can also
 - $BROCU Contract Addresses:
 
         Mainnet [0x1C55f95a3C2CEfba94C41bBa2d6200F7a0Db0651]
-        
+
+
         Testnet [0xD2aF5453D9a25FB02644b190Ee7bC5cc4102D440]
 
 NOTE: If you plan on operating multiple solo miners you need seperate mining accounts for each instance since they may encounter a nonce collision during solution submission.
