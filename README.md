@@ -83,7 +83,10 @@ NOTE: The web3provider need not be a provider like infra or alchemy, it can also
 - Typically 0.005 eth is good enough to get started.  The ether is used for gas to make function calls to the token smart contract when your miner finds a solution to the Proof of Work.  
 - When the gas is spent that means that you have found a solution! If you were the first to find it, you will be rewarded with $BROCU tokens.  (See the block explorer for typical gas prices at the current moment.)
 - $BROCU can be mined on ETH Mainnet, BSC, Base, Mantle, WorldChain, Polygon, OP Mainnet, ETH Sepolia, Base Sepolia, BSC Testnet and OP Sepolia. Ensure you have the correct rpc node set before starting.
-- $BROCU Mainnet [0x1C55f95a3C2CEfba94C41bBa2d6200F7a0Db0651] and Testnet [0xD2aF5453D9a25FB02644b190Ee7bC5cc4102D440] versions have different contract addresses, make sure the correct one is set before starting. 
+- $BROCU Mainnet and Testnet versions have different contract addresses, make sure the correct one is set before starting. 
+- $BROCU Contract Addresses:
+        Mainnet [0x1C55f95a3C2CEfba94C41bBa2d6200F7a0Db0651]
+        Testnet [0xD2aF5453D9a25FB02644b190Ee7bC5cc4102D440]
 
 NOTE: If you plan on operating multiple solo miners you need seperate mining accounts for each instance since they may encounter a nonce collision during solution submission.
 
