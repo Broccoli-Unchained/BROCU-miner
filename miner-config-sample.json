@@ -2,7 +2,7 @@
   "mining_account_public_address":"xyz",
   "mining_account_private_key":"xyz",
   "mining_style":"solo",
-  "contract_address":"0xe88E59424Be0355154c993C85598eB266d7602Bf",
+  "contract_address":"0x1C55f95a3C2CEfba94C41bBa2d6200F7a0Db0651",
   "pool_url":"http://tokenminingpool.com:8080",
   "gas_price_gwei":9,
   "priority_gas_fee_gwei": 2,
