@@ -85,7 +85,7 @@ NOTE: The web3provider need not be a provider like infra or alchemy, it can also
 - $BROCU can be mined on ETH Mainnet, BSC, Base, Mantle, WorldChain, Polygon, OP Mainnet, ETH Sepolia, Base Sepolia, BSC Testnet and OP Sepolia. Ensure you have the correct rpc node set before starting.
 - $BROCU Mainnet and Testnet versions have different contract addresses, make sure the correct one is set before starting. 
 
-
+NOTE: If you plan on operating multiple solo miners you need seperate mining accounts for each instance since they may encounter a nonce collision during solution submission.
 
 
 
