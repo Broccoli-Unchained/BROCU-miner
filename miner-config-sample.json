@@ -1,0 +1,11 @@
+{
+  "mining_account_public_address":"xyz",
+  "mining_account_private_key":"xyz",
+  "mining_style":"solo",
+  "contract_address":"0x1C55f95a3C2CEfba94C41bBa2d6200F7a0Db0651",
+  "pool_url":"http://tokenminingpool.com:8080",
+  "gas_price_gwei":9,
+  "priority_gas_fee_gwei": 2,
+  "cpu_thread_count": 1,
+  "web3provider": "https://ropsten.infura.io/gmXEVo5luMPUGPqg6mhy"
+}
