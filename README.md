@@ -6,7 +6,7 @@ LICENSE GPL
 Solves proof of work to mine supported ERC20 tokens.  This is a CPU miner.
 
 ### Instructions (Windows / Mac)
-1. Install NodeJS 20 or later (nvm install 20)
+1. Install [NodeJS](https://nodejs.org/en/download) 20 or later (nvm install 20)
 2. Download BROCU-miner_win-prebuilt.zip or BROCU-miner_mac-prebuilt.zip from [releases](https://github.com/Broccoli-Unchained/BROCU-miner/releases) then unzip
 3. Open a Command Prompt or Terminal window and cd into the unzipped folder
 4. Set up the config file 'miner-config.json' (duplicate miner-config-sample as a reference)
