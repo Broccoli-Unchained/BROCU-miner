@@ -1,6 +1,6 @@
 {
   "name": "brocu-miner",
-  "version": "1.7.01",
+  "version": "1.0.0",
   "engines": {
     "node": ">=18.0"
   },
