@@ -92,7 +92,7 @@ NOTE: The web3provider need not be a provider like infra or alchemy, it can also
 
         0xD2aF5453D9a25FB02644b190Ee7bC5cc4102D440
 
-NOTE: If you plan on operating multiple solo miners you need seperate mining accounts for each instance since they may encounter a nonce collision during solution submission.
+NOTE: If you plan on operating multiple solo miners you'll need seperate mining accounts for each instance in order to avoid the potential for a nonce collision during solution submission.
 
 
 
