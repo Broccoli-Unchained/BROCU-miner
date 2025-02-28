@@ -61,7 +61,7 @@ REMINDER: You >can< set the web3provider to a ropsten, mainnet, or other type of
 
 ---------------
 
-NOTE: The web3provider need not be a provider like infra or alchemy, it can also be almost any public rpc node such as Public Node or MeowRPC. Just make sure your rate-limit is sufficient. With that said you may be better off running your own node. 
+NOTE: The web3provider need not be a provider like infra or alchemy, it can also be almost any public rpc node such as [PublicNode](https://www.publicnode.com) or [MeowRPC](https://meowrpc.com). Just make sure your rate-limit is sufficient. With that said you may be better off running your own node. 
 
 ### Getting Started
 1. Install NodeJS v10
